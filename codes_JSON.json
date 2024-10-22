@@ -1,5 +1,5 @@
 {
-    "gift codes": [
+    "giftCodes": [
         {
             "code": "STARRAILGIFT",
             "date": "26.04.2023"
@@ -17,7 +17,7 @@
             "date": "02.10.2024"
         },
         {
-            "code": "KFWJG6L3N8M1V  ",
+            "code": "KFWJG6L3N8M1V",
             "date": "16.10.2024"
         }
     ]
